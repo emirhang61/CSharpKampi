@@ -1,0 +1,8 @@
+C:\Users\emirh\VST\CSharpEğitimKampi\03_MakingDecision\bin\Debug\03_MakingDecision.exe.config
+C:\Users\emirh\VST\CSharpEğitimKampi\03_MakingDecision\bin\Debug\03_MakingDecision.exe
+C:\Users\emirh\VST\CSharpEğitimKampi\03_MakingDecision\bin\Debug\03_MakingDecision.pdb
+C:\Users\emirh\VST\CSharpEğitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.csproj.AssemblyReference.cache
+C:\Users\emirh\VST\CSharpEğitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.csproj.CoreCompileInputs.cache
+C:\Users\emirh\VST\CSharpEğitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.exe
+C:\Users\emirh\VST\CSharpEğitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.pdb
+C:\Users\emirh\VST\CSharpEğitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.exe.config

@@ -1,0 +1,8 @@
+C:\Users\emirh\VST\CSharpEğitimKampi\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe.config
+C:\Users\emirh\VST\CSharpEğitimKampi\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe
+C:\Users\emirh\VST\CSharpEğitimKampi\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.pdb
+C:\Users\emirh\VST\CSharpEğitimKampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.AssemblyReference.cache
+C:\Users\emirh\VST\CSharpEğitimKampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.CoreCompileInputs.cache
+C:\Users\emirh\VST\CSharpEğitimKampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.exe
+C:\Users\emirh\VST\CSharpEğitimKampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.pdb
+C:\Users\emirh\VST\CSharpEğitimKampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.exe.config

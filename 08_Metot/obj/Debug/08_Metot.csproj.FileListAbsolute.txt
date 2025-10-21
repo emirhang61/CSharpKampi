@@ -1,0 +1,8 @@
+C:\Users\emirh\VST\CSharpEğitimKampi\08_Metot\bin\Debug\08_Metot.exe.config
+C:\Users\emirh\VST\CSharpEğitimKampi\08_Metot\bin\Debug\08_Metot.exe
+C:\Users\emirh\VST\CSharpEğitimKampi\08_Metot\bin\Debug\08_Metot.pdb
+C:\Users\emirh\VST\CSharpEğitimKampi\08_Metot\obj\Debug\08_Metot.csproj.AssemblyReference.cache
+C:\Users\emirh\VST\CSharpEğitimKampi\08_Metot\obj\Debug\08_Metot.csproj.CoreCompileInputs.cache
+C:\Users\emirh\VST\CSharpEğitimKampi\08_Metot\obj\Debug\08_Metot.exe
+C:\Users\emirh\VST\CSharpEğitimKampi\08_Metot\obj\Debug\08_Metot.pdb
+C:\Users\emirh\VST\CSharpEğitimKampi\08_Metot\obj\Debug\08_Metot.exe.config

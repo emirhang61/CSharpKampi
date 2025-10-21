@@ -1,0 +1,8 @@
+C:\Users\emirh\VST\CSharpEğitimKampi\07_ForeachLoop\bin\Debug\07_ForeachLoop.exe.config
+C:\Users\emirh\VST\CSharpEğitimKampi\07_ForeachLoop\bin\Debug\07_ForeachLoop.exe
+C:\Users\emirh\VST\CSharpEğitimKampi\07_ForeachLoop\bin\Debug\07_ForeachLoop.pdb
+C:\Users\emirh\VST\CSharpEğitimKampi\07_ForeachLoop\obj\Debug\07_ForeachLoop.csproj.AssemblyReference.cache
+C:\Users\emirh\VST\CSharpEğitimKampi\07_ForeachLoop\obj\Debug\07_ForeachLoop.csproj.CoreCompileInputs.cache
+C:\Users\emirh\VST\CSharpEğitimKampi\07_ForeachLoop\obj\Debug\07_ForeachLoop.exe
+C:\Users\emirh\VST\CSharpEğitimKampi\07_ForeachLoop\obj\Debug\07_ForeachLoop.pdb
+C:\Users\emirh\VST\CSharpEğitimKampi\07_ForeachLoop\obj\Debug\07_ForeachLoop.exe.config

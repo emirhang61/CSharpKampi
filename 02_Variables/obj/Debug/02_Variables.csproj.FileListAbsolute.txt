@@ -1,0 +1,8 @@
+C:\Users\emirh\VST\CSharpEğitimKampi\02_Variables\obj\Debug\02_Variables.csproj.AssemblyReference.cache
+C:\Users\emirh\VST\CSharpEğitimKampi\02_Variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
+C:\Users\emirh\VST\CSharpEğitimKampi\02_Variables\bin\Debug\02_Variables.exe.config
+C:\Users\emirh\VST\CSharpEğitimKampi\02_Variables\bin\Debug\02_Variables.exe
+C:\Users\emirh\VST\CSharpEğitimKampi\02_Variables\bin\Debug\02_Variables.pdb
+C:\Users\emirh\VST\CSharpEğitimKampi\02_Variables\obj\Debug\02_Variables.exe
+C:\Users\emirh\VST\CSharpEğitimKampi\02_Variables\obj\Debug\02_Variables.pdb
+C:\Users\emirh\VST\CSharpEğitimKampi\02_Variables\obj\Debug\02_Variables.exe.config
