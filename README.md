@@ -9,7 +9,7 @@ Console.WriteLine() komutu ile temel yazdırma işlemlerini öğrendim ve C# pro
 
 2-Değişkenler
 
- Int, string, double gibi farklı veri türlerinde değişkenler tanımlamayı ve kullanmayı öğrendim. Veri tipleri ve değişkenler üzerinde işlemler yapmayı denedim ve öğrendim.
+ Int, string, double gibi farklı veri türlerinde değişkenler kullanmayı öğrendim. Veri tipleri ve değişkenler üzerinde işlemler yapmayı denedim ve öğrendim.
 
  3-Diziler (Arrays)
  
@@ -25,7 +25,7 @@ For, while ve foreach döngülerini öğrendim. Döngülerle tekrarlayan işleml
 
 6- Metotlar (Methods)
 
-Kodlarımı daha düzenli ve tekrar kullanılabilir hale getirmek için metotlar oluşturmayı öğrendim.
+Kodlarımı daha düzenli ve benden sonra gelecek kişinin anlayabileceği hale getirmek için metotlar oluşturmayı öğrendim.
 
 7- Foreach Döngüsü ve Sınav Sistemi
 
