@@ -1,0 +1,8 @@
+C:\Users\emirh\VST\CSharpEğitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.exe.config
+C:\Users\emirh\VST\CSharpEğitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.exe
+C:\Users\emirh\VST\CSharpEğitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.pdb
+C:\Users\emirh\VST\CSharpEğitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.AssemblyReference.cache
+C:\Users\emirh\VST\CSharpEğitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.CoreCompileInputs.cache
+C:\Users\emirh\VST\CSharpEğitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.exe
+C:\Users\emirh\VST\CSharpEğitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.pdb
+C:\Users\emirh\VST\CSharpEğitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.exe.config
