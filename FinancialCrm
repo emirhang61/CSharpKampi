@@ -1,0 +1,4 @@
+🚀 C# WinForms Finansal CRM Final Projesi
+Bu proje, bir C# Windows Forms uygulaması (WinForms) olup, temel finansal işlemlerin ve müşteri ilişkileri yönetiminin (CRM) basit bir şekilde izlenmesini amaçlayan FinancialCrm uygulamasının Final Case çözümleri ile tamamlanmış halidir.
+
+Proje boyunca, Entity Framework (EF) Database First yaklaşımı kullanılarak veritabanı bağlantıları sağlanmış ve tüm iş mantığı (Business Logic) C# diliyle yazılmıştır.
